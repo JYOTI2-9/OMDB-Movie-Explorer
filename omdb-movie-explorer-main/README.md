@@ -209,18 +209,5 @@ Open your browser and visit: `http://localhost:5173`
 
 ---
 
-## 👨‍💻 Developed By
-**Haridas Khambe**  
-📧 [haridaskhambe2003@gmail.com](mailto:haridaskhambe2003@gmail.com)  
 
-## 🤝 Connect With Me
-
-I'm always open to discussions, feedback, and collaborations!
-
-📧 **Email:** [haridaskhambe2003@gmail.com](mailto:haridaskhambe2003@gmail.com)  
-💼 **LinkedIn:** [Haridas Khambe](https://www.linkedin.com/in/haridas-khambe-aa650926b)  
-🌐 **Portfolio:** [View Portfolio](https://haridaskhambe.github.io/react-personal-portfolio/)
-
-⭐ If you find this project helpful, consider giving it a star on GitHub!
-   Thank you!
 ---
