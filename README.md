@@ -1,20 +1,21 @@
-OMDB Movie Explorer
+🎬 OMDB Movie Explorer:-
 
-OMDB Movie Explorer is a simple full-stack application built using Spring Boot and React.
-It allows users to search movies and view detailed information using the OMDB API.
+OMDB Movie Explorer is a full-stack movie search application built using Spring Boot and React.
+It fetches movie data from the OMDB API and displays detailed information in a clean UI.
 
-Features
+✨ Features
+==============================
 
-Search movies by title
+🔍 Search movies by title
 
-View movie details (plot, director, actors, ratings)
+📄 View movie details (plot, director, actors, ratings)
 
-RESTful backend APIs
+⚡ Fast responses using in-memory caching
 
-In-memory caching for better performance
+🌐 RESTful backend APIs
 
-Tech Stack
+🛠 Tech Stack
 
-Backend: Java, Spring Boot
+🧩 Backend: Java, Spring Boot
 
-Frontend: React, HTML, CSS, JavaScript
+🎨 Frontend: React, HTML, CSS, JavaScript
