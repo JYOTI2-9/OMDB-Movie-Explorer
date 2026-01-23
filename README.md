@@ -1,6 +1,14 @@
+🎬 OMDB Movie Explorer
 
+A simple Movie Explorer web application built using Spring Boot (Backend) and HTML, CSS, JavaScript (Frontend). This application allows users to search for movies and view detailed information using the OMDb API.
+🛠️ Tech Stack
+Backend
+Java,Spring Boot,Spring Web (REST APIs),Maven
+Frontend
+HTML5,JavaScript (Fetch API)
+External API
+OMDb API
 ## 🏗️ Project Architecture
-
 The project follows a classic client-server model:
 
 ## 🧮 API Endpoints
